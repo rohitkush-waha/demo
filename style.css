@@ -1,0 +1,9 @@
+div:nth-child(even) {
+    /* margin-left: 0 auto; */
+    text-align: right;
+    margin-left: 50%;
+    
+  }
+  div{
+    width: 50%;
+  }
